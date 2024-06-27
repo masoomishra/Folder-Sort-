@@ -1,1 +1,2 @@
-# Folder-Sort-
+# Folder-Sort
+# In this personal project, I developed a Python script to automatically organize files in the Downloads folder. The script categorizes files based on their extensions into predefined folders such as Images, Documents, Videos, Audios, Scripts, and Others. It utilizes the os, shutil, and pathlib modules to iterate through files, create necessary directories, and move files to their corresponding categories. This project demonstrates my ability to automate file management tasks, improve system organization, and streamline workflow efficiency.
